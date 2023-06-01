@@ -1,3 +1,5 @@
+#Separa os numeros de uma lista em duas novas listas, uma para pares e outra para impares
+
 lista = []
 lista_par=[]
 lista_impar=[]

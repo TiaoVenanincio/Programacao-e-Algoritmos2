@@ -1,3 +1,5 @@
+#Verifica se há um numero repetido na lista
+
 def verifica_repetido(lista):
     iguais = False
     i = 1

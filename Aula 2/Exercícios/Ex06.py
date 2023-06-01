@@ -1,3 +1,6 @@
+#Pega os valores de cada uma das duas colunas de uma matriz
+#e os insere em duas novas listas, uma para cada coluna
+
 def mostra_colunas(matriz):
     lista_1, lista_2 = [], []
     for i in range(len(matriz)):

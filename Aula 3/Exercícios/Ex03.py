@@ -1,3 +1,5 @@
+#Organizando as linhas de uma matriz com base em uma determinada coluna
+
 def ordena_coluna(matriz, col):
     for i in range(1,len(matriz)):
         j = i
