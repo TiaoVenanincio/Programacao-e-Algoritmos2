@@ -45,4 +45,4 @@
 - Ordenação por contagem, sem comparação
 - Sabemos o valor do maior número -> k
 - Dada uma lista de números inteiros, cria-se uma lista de contagem da frequência dos números da lista desordenada
-- Através da lista de contagem da freqûencia, cria-se o vetor ordenao
+- Através da lista de contagem da freqûencia, cria-se o vetor ordenado

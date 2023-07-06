@@ -29,7 +29,7 @@
 - Ex de subclasse: class Programador(Funcionario) #pode ter mais classes pai
 - Herda os atributos da classe pai (super classe)
 - Inicializa a subclasse, usa o __init__, depois usa o super().__init___ para pegar os atributos do pai
-- Pode chamar os métodos da classe pai com super(). na frente
+- Pode chamar os métodos da classe pai com super(). 
 - Ver exemplo no slide.
 
 ## Polimorfismo:
