@@ -10,14 +10,27 @@
 - first-in-first-out (FIFO)
 
 ## Deque
+- Parecidos com filas, porém itens podem ser adicionados ou removidos de qualquer lado
+- Possuem implementações mais complexas que filas e podem possuir operações mais ineficientes
 
-## Listas
-- Uma das mais fundamentais na linguagem Python
-- Tipo abstrato de dado
+## Lista encadeada
+- Cada elemento possui duas informações, um valor e o endereço do proximo elemento
+- Diferença pra vetores é que os vetores alocam de forma contígua os dados na memória. Tais vetores possuem tamanho fixo.
 
-## Árvores binárias
+## Árvores
+- Forma simples e intuitiva de organizar informações
+- Possibilida armazenamento de forma hierárquica
+- É uma estrutura de dado não linear
+- Nó: Armazena informação
+- Aresta: Conecta dois nós para indicar uma relação entre eles
+- Raiz: Único nó que não possui uma aresta apontando para ele
+- Caminho: Sequencia ordenada de nós conectados por arestas
+- Filhos: Conjunto de nós que recebem conexões de um mesmo nó i (pai)
+- Folha: Nó que não possui filhos
+- Altura da árvore: Maior nível de qualquer nó
 
-## Árvores binárias de busca
+## Árvore binária
+- Cada nó possui no máximo 2 filhos
 
 ## Grafos
 - Composto por vértices (nós que representam uma entidade) e arestas
