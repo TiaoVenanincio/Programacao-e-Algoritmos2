@@ -4,6 +4,6 @@ Estou cursando essa disciplina como eletiva para rever conceitos de Algotimos, P
 
 ## Tópicos abordados na disciplina
 - Tópico 1 - Apresentação da disciplina, revisão de conceitos de python
-- Tópico 2 - Revisão de conceitos de python
-- Tópico 3 - Algoritmos de ordenação
+- Tópico 2 - Algoritmos de Ordenação
+- Tópico 3 - Programação Orientada a Objetos
 - Tópico 4 - Estrutura de Dados
